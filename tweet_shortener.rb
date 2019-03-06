@@ -4,7 +4,7 @@ def dictionary
   
 end 
 
-def word_substituter(tweet shortener)
+def word_substituter("tweet shortener")
   
   
 end
